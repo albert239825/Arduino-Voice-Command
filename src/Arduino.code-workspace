@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Movi Voice Shield"
+		},
+		{
+			"name": "NeoPixel",
+			"path": "../../NeoPixel"
+		}
+	],
+	"settings": {}
+}
